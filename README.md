@@ -7,12 +7,12 @@
 
 
 
- 🔭 I’m currently working on a fun little discord bot, and creating websites for people!
+ 🔭 I’m currently working on graduating college so yes my commits are barren 
  --
 🌱 I’m currently learning Javascript and Python.
 --
 👯 I’m looking to collaborate on anything!
 --
-🐦 - @Doodiejuice
+📷 - @seeplusplus_
 --
 
