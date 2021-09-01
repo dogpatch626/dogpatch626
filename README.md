@@ -7,13 +7,13 @@
 
 
 
- 🔭 I’m currently working on graduating college so yes my commits are barren 
+ 🔭 College Graduate at CUNY john jay college of criminal justice - BS Computer science and security informations 2021
  --
-🌱 I’m currently learning Javascript and Python.
+🌱 Currently diving deep into web development React, Javascript, Express you get the gist. 
 --
 👯 I’m looking to collaborate on anything!
 --
-📷 - @seeplusplus_
+📷 - Linkedin = () =>{return danielp1299}; 
 --
 
 
