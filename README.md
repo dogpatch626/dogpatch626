@@ -13,7 +13,7 @@
 --
 👯 I’m looking to collaborate on anything!
 --
-📷 - Linkedin = () =>{return danielp1299}; 
+📷 - Linkedin = () => {return "danielp1299"}; 
 --
 
 
