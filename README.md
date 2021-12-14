@@ -9,7 +9,7 @@
 
  🔭 College Graduate at CUNY john jay college of criminal justice - BS Computer science and security informations 2021
  --
-🌱 Currently diving deep into web development React, Javascript, Express you get the gist. 
+🌱 Currently a javascript developer for the core-web-engineering team at American Express! 
 --
 👯 I’m looking to collaborate on anything!
 --
