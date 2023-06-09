@@ -9,11 +9,11 @@
 
 ```javascript
 const AboutMe = {
-  "CurrentOccupation": "Currently a Engineer for the web-frameworks-engineering team at American Express!"
+  "CurrentOccupation": "Currently a Engineer for the web-frameworks-engineering team at American Express!",
   "Whoami":" I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
   you name it when I find the time to learn it I will 😁",
   "Schooling": "College Graduate at CUNY john jay college of criminal justice
-  BS Computer science and security informations 2021"
+  BS Computer science and security informations 2021",
   "Html":true,
   "Css":true,
   "Javascript":{
