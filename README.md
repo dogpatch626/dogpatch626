@@ -8,22 +8,22 @@
 #
 
 ```javascript
-const AboutMe = {
-  "CurrentOccupation": "Currently a Engineer for the web-frameworks-engineering team at American Express!",
-  "Whoami":" I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
+const aboutMe = {
+  "currentOccupation": "currently a Engineer for the web-frameworks-engineering team at American Express!",
+  "whoami":" I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
   you name it when I find the time to learn it I will 😁",
   "Schooling": "College Graduate at CUNY john jay college of criminal justice
   BS Computer science and security informations 2021",
-  "Html":true,
-  "Css":true,
-  "Javascript":{
-  "NodeJs":true,
-  "ReactJS":true
+  "html":true,
+  "css":true,
+  "javascript":{
+  "nodeJs":true,
+  "reactJS":true
   },
-  "Rust": "I know a little bit here and there; Currently learning",
-  "C++": "Last time I wrote this was years ago",
-  "Python": "ez",
-  "Tools": ["Vscode", "Git", "Postman", "Insomnia", "Jenkins", "Github Actions", "And a bunch more"]
+  "rust": "I know a little bit here and there; Currently learning",
+  "c++": "Last time I wrote this was years ago",
+  "python": "ez",
+  "tools": ["Vscode", "Git", "Postman", "Insomnia", "Jenkins", "Github Actions", "And a bunch more"]
 } 
 
 ```
