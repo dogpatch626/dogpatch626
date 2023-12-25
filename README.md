@@ -21,7 +21,7 @@ const aboutMe = {
   "reactJS":true
   },
   "rust": "I know a little bit here and there; Currently learning",
-  "c++": "Last time I wrote this was years ago",
+  "c++": "I eat pointers for breakfast",
   "python": "ez",
   "tools": ["Vscode", "Git", "Postman", "Insomnia", "Jenkins", "Github Actions", "And a bunch more"]
 } 
