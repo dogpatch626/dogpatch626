@@ -9,17 +9,18 @@
 
 ```javascript
 const aboutMe = {
-  "currentOccupation": "currently a Engineer for the web-frameworks-engineering team at American Express!",
-  "whoami":" I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
-  you name it when I find the time to learn it I will 😁",
-  "Schooling": "College Graduate at CUNY john jay college of criminal justice
-  BS Computer science and security informations 2021",
+  "currentOccupation": "Currently Looking for a new position as a software engineer!",
+  "whoami":` I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
+  you name it when I find the time to learn it I will 😁`,
+  "Schooling": `College Graduate at CUNY john jay college of criminal justice
+  BS Computer science and security informations 2021`,
   "html":true,
   "css":true,
   "javascript":{
   "nodeJs":true,
   "reactJS":true
   },
+  "go": "aspiring to become a real gopher",
   "rust": "I know a little bit here and there; Currently learning",
   "c++": "I eat pointers for breakfast",
   "python": "ez",
