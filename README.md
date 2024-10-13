@@ -6,7 +6,6 @@
 
 [![Danny.me][b-about]][about]
 ![Years of Experience][b-experience]
-[![American Express contributions][b-amex]][gh-amex]
 
 ```javascript
 const aboutMe = {
@@ -17,6 +16,9 @@ const aboutMe = {
   BS Computer science and security informations 2021`
 } 
 ```
+
+### Open Source Contributions
+[![American Express contributions][b-amex]][gh-amex]
 
 ### Tech Stack
 
