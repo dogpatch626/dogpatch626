@@ -34,6 +34,7 @@ const aboutMe = {
 [![GitHub Actions][b-gh-actions]][gh-actions]
 [![Grafana][b-grafana]][grafana]
 [![iTerm2][b-iterm2]][iterm2]
+[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#)
 [![Jest][b-jest]][jest]
 [![Lerna][b-lerna]][lerna]
 [![macOS][b-macos]][macos]
