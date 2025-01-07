@@ -4,16 +4,16 @@
 
 ![alt text](https://66.media.tumblr.com/tumblr_md9le7KgNF1rawb5do5_250.gifv)
 
-[![Danny.me][b-about]][about]
+[![steriledreams.com][b-about]][about]
 ![Years of Experience][b-experience]
 
 ```javascript
 const aboutMe = {
-  "currentOccupation": "Currently Looking for a new position as a software engineer!",
-  "whoami":` I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
-  you name it when I find the time to learn it I will 😁`,
-  "Schooling": `College Graduate at CUNY john jay college of criminal justice
-  BS Computer science and security informations 2021`
+  currentOccupation: "Currently looking for a new position as a software engineer!",
+  whoami:` I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
+  you name it, When I find the time to learn it I will 😁`,
+  schooling: `College Graduate at CUNY John Jay College of Criminal Justice
+  BS Computer Science and Security Informations 2021`
 } 
 ```
 
@@ -160,4 +160,4 @@ const aboutMe = {
 [b-medium]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
 
 <!-- social links -->
-[about]: https://dogpatch626.github.io
+[about]: https://steriledreams.com/
