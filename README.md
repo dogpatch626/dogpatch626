@@ -10,8 +10,8 @@
 ```javascript
 const aboutMe = {
   currentOccupation: "Currently looking for a new position as a software engineer!",
-  whoami: "I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
-  you name it. When I find the time to learn it, I will 😁",
+  whoami: `I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
+  you name it. When I find the time to learn it, I will 😁`,
   schooling: "College Graduate at CUNY John Jay College of Criminal Justice
   BS Computer Science and Security Informations 2021"
 } 
