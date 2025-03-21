@@ -9,20 +9,11 @@
 
 ```js
 const aboutMe = {
-<<<<<<< Updated upstream
   currentOccupation: "Currently looking for a new position as a software engineer!",
   whoami: `I'm an enthusiast of software, interested in the web, cryptography, compiler design, 
   you name it. When I find the time to learn it, I will 😁`,
   schooling: "College Graduate at CUNY John Jay College of Criminal Justice
   BS Computer Science and Security Informations 2021"
-=======
-  "currentOccupation": "Currently Looking for a new position as a software engineer!",
-  "whoami":` I'm an enthusiast of software, interested in the web, cryptography,
-  compiler design, 
-  you name it when I find the time to learn it I will 😁`,
-  "Schooling": `College Graduate at CUNY john jay college of criminal justice
-  BS Computer science and security informations 2021`
->>>>>>> Stashed changes
 } 
 ```
 
